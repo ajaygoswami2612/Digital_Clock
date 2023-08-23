@@ -1,1 +1,1 @@
-# project2
+# Digital_Clock with stopwatch and alarm implimentation using verilog
